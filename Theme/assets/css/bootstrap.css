@@ -3813,7 +3813,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav > li > a:hover,
 .nav > li > a:focus {
   text-decoration: none;
-  background-color: #eeeeee;
+  background-color: #FFF;
 }
 
 .nav > li.disabled > a {
@@ -4373,8 +4373,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default {
-  background-color: #f8f8f8;
-  border-color: #e7e7e7;
+    background-color: darkgrey;
+    border-color: #585555;
 }
 
 .navbar-default .navbar-brand {
@@ -4392,7 +4392,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: #777777;
+  color: #060606;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
